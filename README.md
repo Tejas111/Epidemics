@@ -1,6 +1,6 @@
 # Epidemic Analysis
 <br>
-As stated by Charles Darwin, the motive of all organisms is to evolve and adapt to the surrounding environment. It is always survaival of the fittest. For humans to survive , it is necessary we take necessary precautions even before a disaster strikes , be it natural or man made .We propose to tackle the outbreaks of **epidemics** and it's adverse effects by predicting the possibility of an outbreak in the future and if there is a possibility , the extent to which it would affect life.
+As stated by Charles Darwin, the motive of all organisms is to evolve and adapt to the surrounding environment. It is always survaival of the fittest. For humans to survive , it is necessary we take necessary precautions even before a disaster strikes , be it natural or man made .We propose to tackle the outbreaks of <b>epidemics</b> and it's adverse effects by predicting the possibility of an outbreak in the future and if there is a possibility , the extent to which it would affect life.
 
 ## What is an Epidemic?
 Epidemic refers to rapid spread of potentially infectious disease to a large number of people in a given population within a 
