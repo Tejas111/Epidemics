@@ -11,3 +11,6 @@ We plan to use machine learning algorithms to predict the outbreak of epidemic d
 
 ## Datasets
 We are planning to use climate datasets from WHO, and various disease outbreak data from reepidemics consortium, other disease datasets from Kaggle (eg: zika virus) and other sites as available.
+
+## Tech used
+We are planning to work with python and its various libraries available for machine learning along with other tech specified in the competition.
